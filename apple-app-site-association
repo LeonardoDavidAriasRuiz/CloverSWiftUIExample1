@@ -8,7 +8,7 @@
                 ],
                 "components": [
                     {
-                        "/": "/Merchant-Example/redirect/*",
+                        "/": "*",
                         "comment": "OAuth Redirect from Clover"
                     }
                 ]
