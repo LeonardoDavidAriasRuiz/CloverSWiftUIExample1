@@ -3,15 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": [
-                    "T2WHR22U8R.com.example1.ecomm.Merchant-Example"
-                ],
-                "components": [
-                    {
-                        "/": "*",
-                        "comment": "OAuth Redirect from Clover"
-                    }
-                ]
+                "appID": "T2WHR22U8R.com.example1.ecomm.Merchant-Example",
+                "paths": ["*"]
             }
         ]
     }
