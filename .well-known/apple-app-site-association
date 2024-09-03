@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "T2WHR22U8R.com.example1.ecomm.Merchant-Example",
+                "appID": "T2WHR22U8R.com.example1.ecomm.Merchant-Example.app",
                 "paths": ["*"]
             }
         ]
